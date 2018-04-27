@@ -1,0 +1,5 @@
+{
+    "ADMIN_EMAIL": "yuen.andrew@epa.gov",
+    "PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "zip", "curl", "openssl", "sockets", "zlib", "pdo", "pdo_mysql", "pdo_odbc", "pdo_pgsql", "pdo_sqlite"],
+    "PHP_VERSION": "{PHP_70_LATEST}"
+}
